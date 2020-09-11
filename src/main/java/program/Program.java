@@ -1,4 +1,6 @@
-package math;
+package program;
+
+import math.TeylorSeriesTest;
 
 public class Program {
 
